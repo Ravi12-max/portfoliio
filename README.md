@@ -4,13 +4,13 @@
 
 ### CSE Student · Batch 2028 · Java & Spring Boot Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfoliio-Live-gold?style=for-the-badge&logo=github)(https://ravi12-max.github.io/portfoliio/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-gold?style=for-the-badge&logo=github)](https://ravi12-max.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ravi-kumar-439b59367)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Ravi12-max)
 
 ---
 
-_"Crafting elegant solutions through code & curiosity."_
+*"Crafting elegant solutions through code & curiosity."*
 
 </div>
 
@@ -28,21 +28,20 @@ Currently deepening my expertise in **Spring Boot** and **NoSQL databases**, I a
 
 ## 🛠️ Tech Stack
 
-| Category      | Technologies                          |
-| ------------- | ------------------------------------- |
-| **Languages** | Java, SQL                             |
-| **DSA**       | Arrays, Trees, Graphs, DP, Sorting    |
-| **Backend**   | Spring Boot, Spring MVC, REST APIs    |
-| **Database**  | MongoDB, NoSQL                        |
-| **Tools**     | Git, GitHub, Postman, Maven           |
-| **Concepts**  | OOP, MVC Architecture, CRUD, JWT Auth |
+| Category | Technologies |
+|---|---|
+| **Languages** | Java, SQL |
+| **DSA** | Arrays, Trees, Graphs, DP, Sorting |
+| **Backend** | Spring Boot, Spring MVC, REST APIs |
+| **Database** | MongoDB, NoSQL |
+| **Tools** | Git, GitHub, Postman, Maven |
+| **Concepts** | OOP, MVC Architecture, CRUD, JWT Auth |
 
 ---
 
 ## 🚀 Projects
 
 ### 01 · Tic-Tac-Toe
-
 > Two-player console game with win detection, draw logic, and replay mode.
 
 - Built with pure Java OOP principles
@@ -54,7 +53,6 @@ Currently deepening my expertise in **Spring Boot** and **NoSQL databases**, I a
 ---
 
 ### 02 · Snake Game
-
 > Classic arcade Snake with real-time movement and increasing difficulty.
 
 - Java Swing for GUI rendering
@@ -66,7 +64,6 @@ Currently deepening my expertise in **Spring Boot** and **NoSQL databases**, I a
 ---
 
 ### 03 · Todo REST API
-
 > Full CRUD REST API built with Spring Boot and MongoDB.
 
 - Create, Read, Update, Delete tasks via REST endpoints
@@ -78,7 +75,6 @@ Currently deepening my expertise in **Spring Boot** and **NoSQL databases**, I a
 ---
 
 ### 04 · Student Management System
-
 > CRUD application to manage student records and grades.
 
 - Spring MVC architecture
@@ -90,7 +86,6 @@ Currently deepening my expertise in **Spring Boot** and **NoSQL databases**, I a
 ---
 
 ### 05 · DSA Problem Archive
-
 > Curated collection of 50+ DSA problems solved in Java.
 
 - Covers Arrays, Linked Lists, Trees, Graphs, Dynamic Programming
@@ -156,11 +151,11 @@ Your live URL will be: `https://ravi12-max.github.io/portfolio`
 
 ## 📬 Contact
 
-| Platform    | Link                                                                                     |
-| ----------- | ---------------------------------------------------------------------------------------- |
-| 🐙 GitHub   | [github.com/Ravi12-max](https://github.com/Ravi12-max)                                   |
+| Platform | Link |
+|---|---|
+| 🐙 GitHub | [github.com/Ravi12-max](https://github.com/Ravi12-max) |
 | 💼 LinkedIn | [linkedin.com/in/ravi-kumar-439b59367](https://www.linkedin.com/in/ravi-kumar-439b59367) |
-| ✉️ Email    | ravikumar@email.com _(update with your real email)_                                      |
+| ✉️ Email | ravikumar@email.com *(update with your real email)* |
 
 ---
 
@@ -168,6 +163,6 @@ Your live URL will be: `https://ravi12-max.github.io/portfolio`
 
 **⭐ If you like this portfolio, give it a star on GitHub!**
 
-_© 2025 Ravi Ranjan Kumar · CSE Batch 2028_
+*© 2025 Ravi Ranjan Kumar · CSE Batch 2028*
 
 </div>
