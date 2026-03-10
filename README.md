@@ -4,7 +4,7 @@
 
 ### CSE Student · Batch 2028 · Java & Spring Boot Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-gold?style=for-the-badge&logo=github)](https://ravi12-max.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfoliio-Live-gold?style=for-the-badge&logo=github)](https://ravi12-max.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ravi-kumar-439b59367)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Ravi12-max)
 
